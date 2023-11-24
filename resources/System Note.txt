@@ -1,0 +1,9 @@
+Jewelery System For Login
+
+Admin
+email    - admin@gmail.com
+password - adminadmin
+
+User
+email    - user1@gmail.com
+password - user1234
